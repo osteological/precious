@@ -1,0 +1,10 @@
+{{ define "main" }}
+	{{ partial "banner" site.Data.top_header }}
+	{{ partial "spotlight" site.Data.ceremony_dinner }}
+	{{ partial "spotlight" site.Data.reception }}
+	{{ partial "schedule_table" . }}
+	{{ partial "spotlight" site.Data.lodging }}
+	{{ partial "spotlight" site.Data.rsvp }}
+	{{ partial "spotlight" site.Data.registry }}
+	{{ partial "gallery" site.Data.footer_gallery }}
+{{ end }}

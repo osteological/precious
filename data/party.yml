@@ -1,0 +1,22 @@
+title : "The Party"
+style: "style1 medium onscroll-fade-in"
+items:
+  - name: "💃🎶🕺🎉"
+    content: |
+      Get ready to dance the night away on the rhythmic waves of the Bay Mist! Our party,
+      helmed by Maine’s finest live musicians and DJs, will beckon you on the dance floor for a
+      night of non-stop fun.
+    style: "solid style2 major"
+  - name : "👗👔👕👚"
+    content : |
+      Dress to impress in your favorite cocktail threads that allow you to tear up the dance floor
+      uninhibited. We encourage a splash of bright, cheerful hues to complement our maritime
+      backdrop. The ship is enclosed and heated, so no need to dress for the ocean elements.
+    style : "style2 major"
+  - name : "🍕🍰🍻🍷"
+    content: |
+      To balance out the open bar (yes, the boat has a bar!), we’ll be serving some light fare and
+      desserts to keep you fueled for an evening of revelry. We encourage you to eat dinner prior
+      to your arrival, as this event is happening following a private dinner and ceremony attended
+      by family.
+    style : "solid style2 major"

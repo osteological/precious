@@ -1,0 +1,18 @@
+<article>
+    <a href="{{ .image }}" class="image">
+        {{ if .thumb }}
+            {{ with .thumb }}<img src="{{ . }}" alt="" />{{ end }}
+        {{ else }}
+            {{ with .image }}<img src="{{ . }}" alt="" />{{ end }}
+        {{ end }}
+    </a>
+    <div class="caption">
+        {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+        {{ with .content }}<p>{{ . }}</p>{{ end }}
+        {{ with .button }}
+        <ul class="actions fixed">
+            <li><span class="button small">{{ . }}</span></li>
+        </ul>
+        {{ end }}
+    </div>
+</article>

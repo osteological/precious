@@ -1,0 +1,17 @@
+<!-- Gallery -->
+<section class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
+
+    {{ if or .title .content }}
+        <div class="inner">
+            {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+            {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        </div>
+    {{ end }}
+
+    <!-- Gallery -->
+    <div class="gallery {{ .style }}">
+        {{ range .pictures }}
+            {{ partial "picture" . }}
+        {{ end }}
+    </div>
+</section>

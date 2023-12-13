@@ -1,0 +1,39 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Devon and Miranda's Wedding!"
+copyright = "2023"
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "docs"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Wedding ceremony invitation website."
+  # This sets the favicon to the given emoji.
+  IconEmoji = "⛵"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
+
+[_build]
+  list = 'always'
+  publishResources = true
+  render = 'always'
