@@ -9,4 +9,5 @@ content: |
 button:
   label: "Our Reception Website"
   link: "https://www.devonmiranda.voyage"
+  button_tag: 'target="_blank"'
 image: "images/us-1.jpg"
