@@ -1,0 +1,13 @@
+style: "style1 orient-right content-align-left"
+title : "Registry"
+content: |
+  We are truly grateful for your love and support. As we embark on this exciting journey together,
+  your presence is the greatest gift we could ask for. If you’re considering an additional
+  gesture, we have registered at TODO.
+
+  We appreciate your best wishes and advice as we begin our life as husband and wife!
+button:
+  label: "Registry"
+  link: "https://www.devonmiranda.voyage"
+  button_tag: 'target="_blank"'
+image: "images/registry_us.jpg"

@@ -1,0 +1,18 @@
+style: "style1 orient-right content-align-left"
+title : "Ceremony & Dinner"
+content: |
+  The day begins at Luke’s Lobster, located off the Portland Pier, in the heart of the Old Port.
+  Luke’s provides the perfect backdrop for this joyous occasion. Surrounded by the soothing sounds
+  of the ocean and the warm glow of a spring afternoon, we’ll exchange vows in the company of our
+  closest friends and family. This intimate gathering promises to be a cherished moment in our
+  love story. With a carefully curated food menu, including Portland’s best-voted lobster roll, you
+  will enjoy a dining experience that showcases the region’s culinary prowess.
+
+  _A note on wardrobe_: Please wear what you are comfortable in. We encourage a splash of bright,
+  cheerful hues to complement our maritime backdrop. We are suggesting a semi-formal or
+  cocktail attire.
+button:
+  label: "Luke's Lobster Portland"
+  link: "https://www.lukeslobster.com/pages/portland-pier"
+  button_tag: 'target="_blank"'
+image: "images/lukes.jpeg"

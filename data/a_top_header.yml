@@ -1,0 +1,12 @@
+style: "style5 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "The Wedding of Miranda Lawell and Devon Bray"
+subtitle: |
+  Saturday, May 18<sup>th</sup> 2024 in Portland, Maine, starting at 3 o'clock.
+content : |
+  Join us for an intimate dinner and ceremony among friends and family followed by a rousing
+  reception aboard a harbor cruise ship.
+button:
+  label : "RSVP Online"
+  link : "#rsvp"
+image : "images/header_us_5.jpg"
+

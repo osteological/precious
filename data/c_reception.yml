@@ -1,0 +1,18 @@
+style: "style6 orient-left content-align-left"
+title : "Reception"
+content: |
+  Following the ceremony and dinner, we invite you to share in the joy of our newly minted union
+  aboard the Bay Mist harbor ship. The ship is outfitted for merriment, equipped with a dance
+  floor, a full bar, multiple balconies, bathrooms, and even an elevator!
+
+  Our reception will have an expanded guest list, live music helmed by Maine’s finest live musicians
+  and DJs, and plenty of toasts to life and love.
+
+  To balance out the open bar, we’ll be serving some light fare and
+  desserts to keep you fueled for an evening of revelry. The ship is enclosed and heated, so no
+  need to dress for the ocean elements.
+button:
+  label: "Our Reception Website"
+  link: "https://www.devonmiranda.voyage"
+  button_tag: 'target="_blank"'
+image: "images/boat_art_wide.png"

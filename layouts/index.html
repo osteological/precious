@@ -1,10 +1,13 @@
 {{ define "main" }}
-	{{ partial "banner" site.Data.top_header }}
-	{{ partial "spotlight" site.Data.ceremony_dinner }}
-	{{ partial "spotlight" site.Data.reception }}
+	{{ partial "banner" site.Data.a_top_header }}
+	{{ partial "spotlight" site.Data.b_ceremony_dinner }}
+	{{ partial "spotlight" site.Data.c_reception }}
 	{{ partial "schedule_table" . }}
-	{{ partial "spotlight" site.Data.lodging }}
-	{{ partial "spotlight" site.Data.rsvp }}
-	{{ partial "spotlight" site.Data.registry }}
-	{{ partial "gallery" site.Data.footer_gallery }}
+	{{ partial "spotlight" site.Data.e_walking }}
+	{{ partial "spotlight" site.Data.f_lodging }}
+	{{ partial "spotlight" site.Data.g_traveling }}
+	{{ partial "spotlight" site.Data.h_rsvp }}
+	{{ partial "spotlight" site.Data.i_registry }}
+	{{ partial "spotlight" site.Data.j_explore }}
+	{{ partial "gallery" site.Data.k_footer_gallery }}
 {{ end }}

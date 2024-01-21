@@ -1,0 +1,13 @@
+style: "style1 orient-left content-align-left"
+id: "rsvp"
+title : "RSVP (Thank you!)"
+content: |
+  We’re finally getting married! We’re looking forward to sharing the day with you all. If you have
+  any questions or just want to say hello, we’d love to hear from you.
+
+  To help with our planning, please RSVP no later than _April 13th_.
+button: 
+  label: "RSVP Form"
+  link: "https://forms.gle/w6EpEk7aCxEkeCHg7"
+  button_tag: 'target="_blank"'
+image: "images/us-1.jpg"

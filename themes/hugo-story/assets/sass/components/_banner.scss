@@ -256,7 +256,7 @@
 			background-color: #FB8936;
 
 			img {
-				@include vendor('object-fit', 'contain');
+				@include vendor('object-fit', 'cover');
 				@include vendor('object-position', 'center');
 				display: block;
 				position: absolute;
