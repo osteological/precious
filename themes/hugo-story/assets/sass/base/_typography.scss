@@ -60,6 +60,10 @@
 		margin: 0 0 _size(element-margin) 0;
 
 		&.major {
+			font-size: 1.8rem;
+		}
+
+		&.minor {
 			font-size: 1.25rem;
 		}
 	}
@@ -172,7 +176,11 @@
 	@include breakpoint('<=small') {
 		p {
 			&.major {
-				font-size: 1.1rem;
+				font-size: 1.8rem;
+			}
+
+			&.minor {
+				font-size: 1.25rem;
 			}
 		}
 
